@@ -1,4 +1,4 @@
-# 芒果音乐
+# 青檬音乐
 ###一、百度音乐api
 	01、首页
 		http://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1
